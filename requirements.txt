@@ -3,3 +3,13 @@ numpy
 pandas
 pydeck
 streamlit
+llama-index
+llama-hub
+qdrant_client
+torch
+transformers
+atlassian-python-api
+pytesseract
+Pillow
+docx2txt
+pdf2image
